@@ -34,4 +34,21 @@
     text-align: start;
 }
 
+@media (max-width:991px){
+    .container{
+        margin-left: 6%;
+        width: 40%;
+    }
 
+    .container-3{
+        margin: 5% 5%;
+        width: 90%;
+    }
+}
+
+@media (max-width:767px){
+    .container{
+        width: 80%;
+        margin: 2% 10%;
+    }
+}
